@@ -19,7 +19,7 @@
 ## Installation
 1. Clone the repository:
 ```
-   git clone https://github.com/your-username/define-it.git
+   https://github.com/EpicNesh26/Define-It.git
    cd define-it
 ```
 
